@@ -26,3 +26,9 @@
 .sidebarRow.selected{
   background-color:lightgray;
 }
+.sidebarRow.selected>.sidebarRow__icon{
+  color: red;
+}
+.sidebarRow.selected>.sidebarRow__title{
+  font-weight:bold;
+}
