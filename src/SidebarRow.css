@@ -2,7 +2,6 @@
   display: flex;
   align-items: center;
   padding:10px 20px;
-
 }
 .sidebarRow__icon{
   color: #606060;
@@ -17,4 +16,13 @@
 .sidebarRow:hover{
   background-color: lightgray;
   cursor: pointer;
+}
+.sidebarRow:hover > .sidebarRow__icon{
+  color: red;
+}
+.sidebarRow:hover > .sidebarRow__title{
+  font-weight:bold;
+}
+.sidebarRow.selected{
+  background-color:lightgray;
 }
