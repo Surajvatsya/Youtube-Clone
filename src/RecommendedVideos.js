@@ -9,7 +9,7 @@ function RecommendedVideos() {
       <h2>Recommended</h2>
       <div className="recommendedVideos__videos">
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -18,7 +18,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -27,7 +27,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -36,7 +36,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -45,7 +45,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -54,7 +54,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -63,7 +63,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
@@ -72,7 +72,7 @@ function RecommendedVideos() {
 
         />
         <VideoCard
-          image="https://i.ytimg.com/an_webp/kSMttsXytAA/mqdefault_6s.webp?du=3000&sqp=CLD9_4sG&rs=AOn4CLDHqR0La1aws0lmUmDkRRrvyhte-w"
+          image="https://i.ytimg.com/an_webp/OZDpmczSHjI/mqdefault_6s.webp?du=3000&sqp=CJ6DgIwG&rs=AOn4CLCaLyRZvK9kK0McYGlCVlAmpwZgTw"
           title="Inside the luxurious lives of the world's richest kids | 60 Minutes Australia"
           views="1,547,924 views"
           timestamp="2 years ago"
