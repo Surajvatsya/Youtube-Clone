@@ -3,7 +3,10 @@ import './RecommendedVideos.css'
 function RecommendedVideos() {
   return (
     <div className="recommendedVideos">
-      I am RecommendedVideos
+      <h2>Recommended</h2>
+
+
+      
     </div>
   )
 }
